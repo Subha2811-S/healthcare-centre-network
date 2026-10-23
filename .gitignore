@@ -1,0 +1,10 @@
+.git-temp/
+*.log
+Thumbs.db
+desktop.ini
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+__pycache__/
